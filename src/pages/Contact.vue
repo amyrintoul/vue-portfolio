@@ -1,17 +1,14 @@
 <template>
  <div>
-   <Navbar />
-   <router-view />
+     this is my contacts page
    </div>
 </template>
 
 <script>
-import Navbar from '@/Components/Navbar.vue'
 
 export default {
-  name: 'App',
+  name: 'contact',
   components: {
-    Navbar
     
   }
 }
