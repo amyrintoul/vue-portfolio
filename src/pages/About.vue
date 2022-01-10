@@ -1,7 +1,7 @@
 <template>
  <div>
     <h1 class=" text-uppercase font-weight-bold title is-1">About Me</h1>
-     
+     <h1 class="title -5">I love taking photos, especially of my doggy &hearts;, so I just thought I'd add these here! lol. </h1>
 
 <!-- Gallery -->
 <div class="row">
