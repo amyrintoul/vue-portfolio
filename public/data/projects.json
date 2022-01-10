@@ -7,7 +7,7 @@
        "tags": ["Vue"],
        "images": ["vue-do.png"],
        "date": "September 2021",
-       "demo": "demo/vue-do",
+       "demo": "vue-do",
        "links": {
           "github": ""
           

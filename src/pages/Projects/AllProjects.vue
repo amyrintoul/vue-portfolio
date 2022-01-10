@@ -51,13 +51,17 @@
       <time datetime="2016-1-1" >{{project.date}}</time>
       <br>
       <div class="mt-2"></div>
-      <b-button class="mr-2" v-if="project.demo" :to="{name: project.demo}" type="is-primary">Demo</b-button>
+      <div v-if="project.demo">
+      <router-link class="btn btn-info mb-3" :to="{name: project.demo}" type="is-primary">Demo</router-link>
+      </div>
+      <div v-if="project.links.github">
+       <a class="mr-2 btn btn-info" :href="project.links.github" type="is-primary">Github </a>
+        </div>
+        <div v-if="project.website">
+        <a class="mr-2 mt-3 btn btn-info" :href="project.website" type="is-primary">Hosted Site </a>
+        </div>
       
-       <b-button class="mr-2" v-if="project.links.github" :href="project.links.github" type="is-primary">Github </b-button>
-        <b-button class="mr-2" v-if="project.website" :href="project.website" type="is-primary">Hosted Site </b-button>
-
     
-     
     </div>
   </div>
 </div>
