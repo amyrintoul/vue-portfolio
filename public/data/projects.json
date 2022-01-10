@@ -2,10 +2,10 @@
     { 
        "id": 1,
        "title": "VueDo",
-       "description": "My first Vue.js todo app", 
+       "description": "My first Vue.js todo app, getting started on using vue for the first time.SS", 
        "website": "",
        "tags": ["Vue"],
-       "images": ["vuedo.png"],
+       "images": ["vue-do.png"],
        "date": "September 2021",
        "demo": "demo/vue-do",
        "links": {
@@ -18,10 +18,10 @@
     { 
       "id": 2,
       "title": "VueGiph",
-      "description": "My first Vue.js todo app", 
+      "description": "My first Vue.js Giphy app, using Vue & Axios.", 
       "website": "",
       "tags": ["Vue","axios"],
-      "images": ["vuedo.png"],
+      "images": ["giphyViewer.png"],
       "date": "Oct 6th 2021",
       "demo": "giphyViewer",
       "links": {
@@ -35,10 +35,10 @@
    { 
       "id": 3,
       "title": "CA1 - Countries Rest API",
-      "description": "My sample project", 
+      "description": "My First Front End Development Assignment, Based on Rest Countries API. ", 
       "website": "https://ca1--fed.web.app/",
       "tags": ["Vue"],
-      "images": ["../assets/images/ca1-logo.png"],
+      "images": ["ca1-logo.png"],
       "date": "Nov 3rd 2021",
       "demo": "",
       "links": {
@@ -51,10 +51,10 @@
    { 
       "id": 4,
       "title": "CA2 - College API",
-      "description": "My second example", 
+      "description": "My second Front End Devlopment Assignment, Based on A College API.", 
       "website": "https://ca2-fed-amyrintoul.web.app/",
       "tags": ["Vue"],
-      "images": ["vuedo.png"],
+      "images": ["ca2-logo.png"],
       "date": "December 2021",
       "demo": "vue-do",
       "links": {

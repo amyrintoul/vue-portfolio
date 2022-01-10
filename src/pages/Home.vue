@@ -7,6 +7,7 @@
       <div class="text-center">
         
       <a href="/projects" class="btn btn-primary mt-3">My Projects</a>
+    
      
       </div>
     </div>
