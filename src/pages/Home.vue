@@ -1,6 +1,15 @@
 <template>
  <div>
-     This is the home page
+    <div class="box">
+      
+      <img src="../assets/header.png" />
+    
+      <div class="text-center">
+        
+      <a href="/projects" class="btn btn-primary mt-3">My Projects</a>
+     
+      </div>
+    </div>
    </div>
 </template>
 

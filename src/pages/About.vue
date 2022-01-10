@@ -1,6 +1,6 @@
 <template>
  <div>
-     this is my about page
+    <h1 class=" text-uppercase font-weight-bold title is-1">About Me</h1>
    </div>
 </template>
 
