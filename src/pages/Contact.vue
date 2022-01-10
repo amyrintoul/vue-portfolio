@@ -1,8 +1,10 @@
 <template>
    <div>
+     <h1 class=" text-uppercase font-weight-bold title is-1 text-center">Contact Me</h1>
        <div class="row">
-            <div class="col">
-                <h1 class=" text-uppercase font-weight-bold title is-1">Contact Me</h1>
+         
+            <div class="col box">
+                
                 <h2 class=" font-weight-light title is-3">Get in touch</h2>
                 <p>You'll find us in Westminister, on a fresh, modern campus that is home to over 2500 students and staff. Look around and see what we have to offer. You won't be disappointed.</p>
                     <section>
@@ -40,8 +42,8 @@
                             <b-button type="is-primary is-light" class="mb-5" >Send Message</b-button>
                     </section>
             </div>
-            <div class="col text-center mt-5">
-                      <img alt="logo" src="../assets/logo1.png">
+            <div class="col text-center move-me">
+                      <img alt="logo" src="../assets/contact.png">
 
             </div>
         </div>
@@ -60,6 +62,8 @@ export default {
 </script>
 
 <style>
-
+.move-me{
+  margin-top: 5%;
+}
  
 </style>
