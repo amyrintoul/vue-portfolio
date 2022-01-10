@@ -17,11 +17,21 @@
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Wintry Mountain Landscape"
     />
+     <img
+      src="../assets/images/sky2.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Wintry Mountain Landscape"
+    />
+      <img
+      src="../assets/images/jersey.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Wintry Mountain Landscape"
+    />
   </div>
 
   <div class="col-lg-4 mb-4 mb-lg-0">
     <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Vertical/mountain2.webp"
+      src="../assets/images/mountain-dog.png"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Mountains in the Clouds"
     />
@@ -31,21 +41,34 @@
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Boat on Calm Water"
     />
+    
+    <img
+      src="../assets/images/sky.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Boat on Calm Water"
+    />
   </div>
 
   <div class="col-lg-4 mb-4 mb-lg-0">
-    <img
-      src="https://mdbcdn.b-cdn.net/img/Photos/Horizontal/Nature/4-col/img%20(18).webp"
+     <img
+      src="../assets/images/spain.png"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Waves at Sea"
     />
-
-    <img
+      <img
       src="../assets/images/doggy.png"
       class="w-100 shadow-1-strong rounded mb-4"
       alt="Yosemite National Park"
     />
+    <img
+      src="../assets/images/green.png"
+      class="w-100 shadow-1-strong rounded mb-4"
+      alt="Waves at Sea"
+    />
+
+  
   </div>
+ 
 </div>
    </div>
 </template>

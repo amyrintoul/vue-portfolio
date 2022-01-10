@@ -23,7 +23,8 @@
   <div class="card-image">
     <figure class="image is-4by3">
       
-      <img :src="('@/assets/images/' + project.images)" alt="Placeholder image">
+      
+      <img v-if="project.images[0]" :src="require(`@/assets/images/${project.images[0]}`)">
     </figure>
   </div>
   <div class="card-content">
